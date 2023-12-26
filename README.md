@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @teja-42
 - 👀 I’m interested in C,C++,Python
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me 
 
 <!---
